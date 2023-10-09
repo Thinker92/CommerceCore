@@ -70,4 +70,7 @@ This project is licensed under the terms of the MIT License.
 
 ## Walkthrough Video
 
-[Link to the walkthrough video](#)
+For a complete walkthrough of the application, please refer to the following video:
+
+[CommerceCore Walkthrough Video](./CommerceCore-walkthrough.webm)
+
